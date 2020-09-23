@@ -10,8 +10,8 @@
 	- infrastructure automation
 	- diversity + inclusion + equity
 	- polyglot software development
-	  - I ♥️ Haskell, Erlang, F#, OCaml / SMLNJ, Racket, Idris
-	  - I use Bash, Rust, Python, Terraform, Go, Swift, C, C++, Java, etc.
+	  - I ♥️ Haskell, Erlang, F#, OCaml / SMLNJ, Racket, Idris, C, Rust
+	  - I use Bash, Python, Terraform, Go, Swift, C++, Java, etc.
 	- parsing + compilers
 	- math + 3d geometry
 - Remote worker since 2012
