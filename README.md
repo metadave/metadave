@@ -11,7 +11,7 @@
 	- diversity + inclusion + equity
 	- polyglot software development
 	  - I ♥️ Haskell, Erlang, F#, OCaml / SMLNJ, Racket, Idris, C, Rust
-	  - I use Bash, Python, Terraform, Go, Swift, C++, Java, etc.
+	  - I use Bash, Python, Terraform, Go, Ruby, Swift, C++, Java, etc.
 	- parsing + compilers
 	- math + 3d geometry
 - Remote worker since 2012
