@@ -28,7 +28,7 @@
 
 ### Habitat
 
-- 102 PR's against [Habitat](https://github.com/habitat-sh/habitat/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed)
+- [102 PR's](https://github.com/habitat-sh/habitat/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed) against [Habitat](https://habitat.sh)
   - a few highlights:
     - [Encryption / decryption support](https://github.com/habitat-sh/habitat/pull/171)
     - [Add artifact sign/verify with libsodium](https://github.com/habitat-sh/habitat/pull/357)
