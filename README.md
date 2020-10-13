@@ -57,6 +57,7 @@
 
 - [Contributions to Disco](https://github.com/disco-lang/disco/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed), a discrete math teaching language written in Haskell
   - the largest contribution being https://github.com/disco-lang/disco/pull/230
+  - add [OEIS](https://oeis.org/) support to the Disco language: https://github.com/disco-lang/disco/pull/202
 - [JKVC](https://github.com/metadave/JKVC) - Key Value Coding for Java data structures
 - [ETP](https://github.com/metadave/etp): an Erlang Term Parser for Java.
 - [EQL: an Elasticsearch Query Language (experimental)](https://github.com/metadave/eql) 
