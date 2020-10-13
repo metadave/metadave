@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working as a manager of data operations SRE @ Mozilla (as of August 2020)
   - previously, manager of cloud engineering @ Mozilla
-- 🌱 I’m currently learning type theory + abstract algebra
 - I'm interested in:
 	- distributed systems
 	- programming language theory + functional programming
